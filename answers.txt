@@ -1,8 +1,0 @@
-1. https://github.com/spekhale
-2. 2.28.2
-3. Yes, requests has been installed; 2.31.0
-4. The version for requests is different. It got updated after requests was installed on the virtual environment.
-5. Status code: 301 (i.e. Moved Permanently); URL to get a 200 status code: http://www.google.com
-6. Status code: 301 (i.e. Moved Permanently); It is returned by both curl -I and curl -iL; It gives a status code: 418 (i.e. I\'92m a Teapot)
-7. In H3, there are no form contents without -X POST. There is also CONTENT_LENGTH, CONTENT_TYPE that appeared in -X POST. This method is useful to send data to the server. -X specifies the request method to use when contacting a HTTP server. -d sends the data in the POST request.
-8. https://github.com/spekhale/CMPUT404_lab1/blob/main/test2.py
